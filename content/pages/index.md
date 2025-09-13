@@ -8,15 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Elevating Properties. Maximizing Potential.
-    text: >
-      At Goudeau Property Solutions LLC, we transform rentals into worry-free
-      investments. Our team offers hands-on property management services
-      designed to protect your assets, maximize returns, and provide a seamless
-      experience for both tenants and owners alike. From strict property
-      monitoring and security systems to routine cleanings and proactive
-      maintenance, we ensure your property remains safe, profitable, and in top
-      condition year-round. With us, you don’t just get management—you gain a
-      committed partner who treats your property like our own.
+    text: "At\_**Goudeau Property Solutions LLC**, we provide property owners with a reliable, hands-off way to generate income from their homes. We specialize in placing\_**qualified short-term tenants**—including medical professionals, business travelers, and responsible guests visiting for leisure.\n\nOur system ensures your property stays occupied, well-maintained, and profitable year-round. From professional cleanings and tenant screenings to security monitoring and ongoing maintenance, we handle every detail with care.\n"
     actions:
       - label: Get started
         altText: ''
