@@ -301,7 +301,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://disk.yandex.com/i/sBomT-jlqtRN3w'
       autoplay: true
       loop: true
       muted: true
