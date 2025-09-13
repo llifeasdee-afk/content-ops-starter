@@ -123,10 +123,11 @@ sections:
         type: FeaturedItem
       - title: Stability
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          As your tenant, we guarantee consistent rent payments—on time, every
+          time, and sometimes months in advance. You’ll never deal with late
+          payments, vacancies, or unreliable tenants. Your income is steady,
+          predictable, and stress-free.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
