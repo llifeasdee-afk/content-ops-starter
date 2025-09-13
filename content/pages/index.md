@@ -218,7 +218,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow
+      text: About US
       color: text-dark
       styles:
         self:
