@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Why Owners Work with us
       color: text-primary
       styles:
         self:
