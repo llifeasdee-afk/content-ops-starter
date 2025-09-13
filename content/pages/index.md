@@ -642,7 +642,7 @@ sections:
       text: Let's Talk About Your Property
       color: text-dark
       type: TitleBlock
-    subtitle: SSchedule My Free Consultation
+    subtitle: Schedule My Free Consultation
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
