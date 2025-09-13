@@ -328,7 +328,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Business Consulting
+      text: Schedule A Consult
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
