@@ -9,9 +9,14 @@ sections:
       type: TitleBlock
     subtitle: Elevating Properties. Maximizing Potential.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      At Goudeau Property Solutions LLC, we transform rentals into worry-free
+      investments. Our team offers hands-on property management services
+      designed to protect your assets, maximize returns, and provide a seamless
+      experience for both tenants and owners alike. From strict property
+      monitoring and security systems to routine cleanings and proactive
+      maintenance, we ensure your property remains safe, profitable, and in top
+      condition year-round. With us, you don’t just get management—you gain a
+      committed partner who treats your property like our own.
     actions:
       - label: Get started
         altText: ''
