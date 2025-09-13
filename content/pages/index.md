@@ -97,10 +97,11 @@ sections:
               borderRadius: x-large
       - title: Security
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We prioritize the safety of your property with advanced noise
+          monitoring, Ring cameras at every entry point, and proactive guest
+          screening. Our systems deter damage, prevent unauthorized activity,
+          and ensure your investment is always protected.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
