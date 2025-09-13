@@ -243,7 +243,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Pitch
-      url: /images/placeholder-video.mp4
+      url: 'https://disk.yandex.com/i/sBomT-jlqtRN3w'
       controls: false
       aspectRatio: '16:9'
       styles:
