@@ -96,7 +96,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Security
+      - title: SSmart Protection
         subtitle: The Job Stuff
         text: >
           We prioritize the safety of your property with advanced noise
