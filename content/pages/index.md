@@ -67,7 +67,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Property Ca
+        title: Property Care
         subtitle: Numbers Done
         text: >
           We treat your property like our own, with regular professional
