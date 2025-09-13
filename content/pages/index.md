@@ -251,7 +251,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Pitch
-      url: 'https://disk.yandex.com/i/sBomT-jlqtRN3w'
+      url: 'https://vimeo.com/1118407636?share=copy'
       controls: true
       aspectRatio: '16:9'
       styles:
