@@ -69,10 +69,11 @@ sections:
       - type: FeaturedItem
         title: Care
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We treat your property like our own, with regular professional
+          cleanings, preventative maintenance, and routine inspections. This not
+          only preserves your property’s long-term value but also ensures it’s
+          always in top condition.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
