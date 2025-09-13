@@ -300,7 +300,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
     media:
-      title: Title of the video
+      title: Pitch
       url: 'https://disk.yandex.com/i/sBomT-jlqtRN3w'
       autoplay: true
       loop: true
