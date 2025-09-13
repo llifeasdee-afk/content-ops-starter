@@ -318,10 +318,7 @@ sections:
       - title: "“At Goudeau Property Solutions, we know how stressful rentals can be. I started this company to give owners a hands-off, worry-free experience while keeping their properties safe and profitable. When working with us, you’re partnering with someone who treats your investment like their own.”—\_Demourion Goudeau, Founder"
         tagline: “Our Commitment to Owners”
         subtitle: Goudeau Property Solutions LLC
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
