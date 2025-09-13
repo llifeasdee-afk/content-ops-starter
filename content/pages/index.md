@@ -244,7 +244,7 @@ sections:
     media:
       title: Pitch
       url: 'https://disk.yandex.com/i/sBomT-jlqtRN3w'
-      controls: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
