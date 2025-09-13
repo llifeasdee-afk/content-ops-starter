@@ -208,11 +208,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Learn How It Works
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Imagine a rental that never sits empty, delivers consistent income every
+      month, and stays in top condition—without you lifting a finger. That’s
+      what we do for property owners. We secure responsible short-term tenants,
+      handle the upkeep, and protect your home like it’s our own.
     media:
       title: Pitch
       url: 'https://vimeo.com/1118407636?share=copy'
