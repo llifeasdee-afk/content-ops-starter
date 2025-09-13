@@ -218,7 +218,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: About Us
+      text: ABOUT US
       color: text-dark
       styles:
         self:
