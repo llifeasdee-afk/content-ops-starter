@@ -315,7 +315,7 @@ sections:
     title: null
     subtitle: Why owners choose us
     items:
-      - title: "“At Goudeau Property Solutions, we know how stressful rentals can be. I started this company to give owners a hands-off, worry-free experience while keeping their properties safe and profitable. When you work with us, you’re not just hiring a manager — you’re partnering with someone who treats your investment like their own.”—\_Demourion Goudeau, Founder"
+      - title: "“At Goudeau Property Solutions, we know how stressful rentals can be. I started this company to give owners a hands-off, worry-free experience while keeping their properties safe and profitable. When working with us, you’re partnering with someone who treats your investment like their own.”—\_Demourion Goudeau, Founder"
         tagline: “Our Commitment to Owners”
         subtitle: 'Maria Walters, Company'
         text: >-
