@@ -122,7 +122,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: SGuaranteed Rent
+      - title: Guaranteed Rent
         subtitle: Faster
         text: >
           As your tenant, we guarantee consistent rent payments—on time, every
