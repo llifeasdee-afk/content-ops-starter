@@ -320,7 +320,7 @@ sections:
         subtitle: Goudeau Property Solutions LLC
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/IMG_1139.jpg
           altText: Maria Walters
           styles:
             self:
