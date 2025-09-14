@@ -313,7 +313,7 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          “We handle cleanings, guest communication, and property upkeep.”
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
