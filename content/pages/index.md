@@ -55,6 +55,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/7300.jpg.webp
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
