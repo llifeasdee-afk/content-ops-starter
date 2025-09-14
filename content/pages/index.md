@@ -89,7 +89,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Smart Protection
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           We prioritize the safety of your property with advanced noise
           monitoring, Ring cameras at every entry point, and proactive guest
