@@ -341,7 +341,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Trusted Tenants
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           “We place qualified professionals and responsible guests only.”
