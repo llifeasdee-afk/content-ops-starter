@@ -503,7 +503,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: ''
-        details: per month
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
