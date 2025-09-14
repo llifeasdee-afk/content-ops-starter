@@ -487,7 +487,6 @@ sections:
 
         features:
           - Feature one
-          - Feature two
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
