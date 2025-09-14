@@ -60,7 +60,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Property Care
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           We treat your property like our own, with regular professional
           cleanings, preventative maintenance, and routine inspections. This not
