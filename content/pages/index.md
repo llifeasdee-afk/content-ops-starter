@@ -240,7 +240,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/7300.jpg.webp
       altText: Dope design preview
       type: ImageBlock
     badge:
