@@ -325,7 +325,7 @@ sections:
         type: FeaturedItem
       - title: >-
           "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          accomplish a particular purpose.
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
