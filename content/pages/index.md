@@ -161,9 +161,6 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
       - altText: vrbo logo
         type: ImageBlock
       - altText: Vise logo
