@@ -342,7 +342,7 @@ sections:
         type: FeaturedItem
       - title: Trusted Tenants
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           “We place qualified professionals and responsible guests only.”
         image:
