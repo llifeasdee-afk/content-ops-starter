@@ -504,9 +504,23 @@ sections:
         title: ''
         price: ''
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          **Agreements & Payments**
+
+          *   Financial arrangements require a signed contract
+
+          *   Payment terms are outlined in each agreement
+
+          *   We are not responsible for third-party platform fees
+
+          **Guest Relations**
+
+          *   Guests are screened through platforms & tools
+
+          *   Owners are not liable for platform-related issues
+
+          *   We are not responsible for guest negligence or misconduct
+
         features: []
         image:
           type: ImageBlock
