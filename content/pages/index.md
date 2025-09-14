@@ -115,7 +115,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Rent Assurance
-        subtitle: Faster
+        subtitle: ''
         text: >
           As your tenant, we guarantee consistent rent payments—on time, every
           time, and sometimes months in advance. You’ll never deal with late
