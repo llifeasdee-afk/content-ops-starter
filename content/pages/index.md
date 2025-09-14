@@ -322,7 +322,8 @@ sections:
         text: |
           “We handle cleanings, guest communication, and property upkeep.”
         image:
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/hands-business-team-raised-fist-air-corporate-celebration-victory-success-winning-concept_52701-235.jpg
           altText: Placeholder Image
           styles:
             self:
