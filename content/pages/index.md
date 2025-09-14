@@ -159,6 +159,16 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - subtitle: Award winning enterprises trust us
     images:
       - altText: vrbo logo
@@ -177,16 +187,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: ABOUT US
       color: text-dark
