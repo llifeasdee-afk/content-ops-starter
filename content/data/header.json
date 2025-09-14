@@ -47,7 +47,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "squire",
+            "label": "Inquire",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
