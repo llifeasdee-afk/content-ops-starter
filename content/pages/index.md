@@ -468,9 +468,23 @@ sections:
         title: Developers
         price: ''
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          **Services Provided**
+
+          *   Short-term rental setup & management
+
+          *   Listing properties on Airbnb, Vrbo & similar platforms
+
+          *   Guest communication, cleaning, & property care
+
+          *   Guaranteed rental income (when applicable)
+
+          **Use of Website**
+
+          *   Content is for informational purposes only
+
+          *   No copying or misuse of content without permission
+
         features:
           - Feature one
           - Feature two
