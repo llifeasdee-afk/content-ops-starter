@@ -364,7 +364,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Local Expertise
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           “We understand the market and maximize your home’s potential.”
