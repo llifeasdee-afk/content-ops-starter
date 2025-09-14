@@ -318,7 +318,7 @@ sections:
     items:
       - title: Hands-Off Hosting
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           “We handle cleanings, guest communication, and property upkeep.”
         image:
