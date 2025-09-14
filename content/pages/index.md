@@ -164,8 +164,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/vrbo-logo-1024x584.png
-        altText: vrbo logo
+      - altText: vrbo logo
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
