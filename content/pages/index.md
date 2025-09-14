@@ -164,7 +164,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/vrbo-logo-1024x584.png
         altText: Wellster logo
         type: ImageBlock
       - altText: Vise logo
