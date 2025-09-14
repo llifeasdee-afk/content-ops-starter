@@ -485,8 +485,7 @@ sections:
 
           *   No copying or misuse of content without permission
 
-        features:
-          - Feature one
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
