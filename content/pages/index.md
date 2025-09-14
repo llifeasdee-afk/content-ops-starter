@@ -358,9 +358,8 @@ sections:
       - title: Local Expertise
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |
+          “We understand the market and maximize your home’s potential.”
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
