@@ -165,7 +165,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/vrbo-logo-1024x584.png
-        altText: Wellster logo
+        altText: vrbo logo
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
