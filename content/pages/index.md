@@ -369,7 +369,7 @@ sections:
         text: |
           “We understand the market and maximize your home’s potential.”
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/1728693200762.png
           altText: Placeholder image
           styles:
             self:
