@@ -365,7 +365,7 @@ sections:
         type: FeaturedItem
       - title: Local Expertise
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           “We understand the market and maximize your home’s potential.”
         image:
