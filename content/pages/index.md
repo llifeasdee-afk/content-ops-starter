@@ -345,7 +345,7 @@ sections:
         text: |
           “We place qualified professionals and responsible guests only.”
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/tenant-screening-california.jpeg
           altText: Placeholder image
           styles:
             self:
