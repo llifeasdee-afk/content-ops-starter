@@ -163,8 +163,6 @@ sections:
     images:
       - altText: vrbo logo
         type: ImageBlock
-      - altText: Vise logo
-        type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
       - altText: Contentful logo
