@@ -467,7 +467,7 @@ sections:
       - type: PricingPlan
         title: Developers
         price: ''
-        details: No credit card required
+        details: ''
         description: |+
           **Services Provided**
 
