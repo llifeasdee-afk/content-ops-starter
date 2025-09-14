@@ -5,21 +5,6 @@
         "type": "ImageBlock"
     },
     "text": "“Goudeau Property Solutions LLC helps property owners earn steady income through hassle-free management, trusted tenants, and complete property care.”\n",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "secondaryLinks": {
         "title": "Company",
         "links": [
